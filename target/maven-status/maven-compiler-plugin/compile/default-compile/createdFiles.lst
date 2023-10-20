@@ -1,0 +1,11 @@
+com\example\springboot\Application.class
+com\example\springboot\inference_engine\RegressionEngineBuilder.class
+com\example\springboot\dao\SensorDao.class
+com\example\springboot\controller\Controller.class
+com\example\springboot\inference_engine\RandomForestEngineBuilder.class
+com\example\springboot\inference_engine\EngineBuilder.class
+com\example\springboot\model\Sensor.class
+com\example\springboot\dao\InMemorySensorDao.class
+com\example\springboot\inference_engine\InferenceEngine.class
+com\example\springboot\Application$1.class
+com\example\springboot\inference_engine\EngineDirector.class
