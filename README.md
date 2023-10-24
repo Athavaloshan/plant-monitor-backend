@@ -66,7 +66,22 @@ This is the backend of plant monitor project (https://github.com/Athavaloshan/pl
    ```
 ### Testing
 * Install postman
-* [product-screenshot]: images/write.png
+* Setup the postman configuration as shown below to test the APIs.
+* Test Write API
+  
+<img src="images/write.png" alt="Write" width="match_parent" height="match_parent">
+
+* Test GET API
+  
+<img src="images/get.png" alt="Get" width="match_parent" height="match_parent">
+
+* Test DELETE API
+  
+<img src="images/delete.png" alt="Delete" width="match_parent" height="match_parent">
+
+* Test PREDICTION API
+  
+<img src="images/prediction.png" alt="Yield" width="match_parent" height="match_parent">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
